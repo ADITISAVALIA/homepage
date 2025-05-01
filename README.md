@@ -91,7 +91,6 @@
     <section id="contact">
         <h2 class="section-title">Contact</h2>
         <p>Email: <a href="mailto:aditisav1995@gmail.com">aditisav1995@gmail.com</a></p>
-        <p>Phone: +91 9687344051</p>
         <p>Website: <a href="https://sites.google.com/view/aditisavalia/home" target="_blank">Google Site</a></p>
     </section>
 
