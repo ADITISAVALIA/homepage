@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+c<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -74,7 +74,7 @@
   <main>
     <section>
       <h2>Welcome</h2>
-      <p>I am Dr. Aditi Savalia, an Institute Postdoctoral Fellow at IIT Bombay. My research focuses on analytic number theory, sieve methods, and number theory in polynomial rings over finite fields.</p>
+      <p>I am Dr. Aditi Savalia, an Institute Postdoctoral Fellow at IIT Bombay. I have completed my PhD from IIT Gandhinagar, where my advisor was Prof. Akshaa Vatwani. My research focuses on analytic number theory, sieve methods, and number theory in polynomial rings over finite fields.</p>
     </section>
   </main>
 
