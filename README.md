@@ -39,6 +39,7 @@
         <h1>Aditi Savalia</h1>
         <p>Institute Postdoc Fellow, IIT Bombay</p>
         <p>Email: <a href="mailto:aditisav1995@gmail.com">aditisav1995@gmail.com</a></p>
+        <p>Phone: +91 9687344051</p>
     </header>
 
     <nav>
@@ -96,3 +97,4 @@
 
 </body>
 </html>
+
